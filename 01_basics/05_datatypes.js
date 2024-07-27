@@ -31,3 +31,9 @@ const myFunction = function(){
 }
 
 console.log();
+
+
+//*******************************************************************************************//
+//Stack(Primitive) var which is declared it is a copy, Heap (Non Prmitive) reference its used
+
+let myYoutubename = "Bibaswan Kundu"
